@@ -1,0 +1,19 @@
+Code:
+https://scikit-image.org/docs/stable/auto_examples/transform/plot_rescale.html
+
+from Tonechas
+https://stackoverflow.com/questions/48222977/python-converting-an-image-to-use-less-colors
+
+https://scikit-learn.org/stable/auto_examples/cluster/plot_color_quantization.html
+
+logo:
+https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png
+
+matplotlib
+	https://commons.wikimedia.org/wiki/File:Matplotlib_icon.svg
+scikit-image
+	https://commons.wikimedia.org/wiki/File:Scikit-image_logo.png
+
+pic
+http://gudok.xyz/thumbnail/
+https://laptrinhx.com/color-quantization-in-r-2674409921/#
