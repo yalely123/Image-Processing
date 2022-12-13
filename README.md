@@ -1,7 +1,7 @@
 # Image-Processing
-This repository is for store all work that I learned from subject 204383.<br>
+This repository is for store all work that I learned from course 204383.<br>
 All of this work using <i>python</i> and for libraries using <i>openCV</i> and some of <i>scikit-image</i>.
-70% of all work are working in group of 3  people
+80% of all work are working in group of 3  people
 # Course Content
 * Image perception
 * Image acquisition
